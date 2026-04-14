@@ -1,8 +1,8 @@
 replicaCount: 1
 
 image:
-  repository: 254185428277.dkr.ecr.us-east-1.amazonaws.com/ardocd-deployment
-  tag: v13
+  repository: 254185428277.dkr.ecr.us-east-1.amazonaws.com/vinoth-helm
+  tag: v5
   pullPolicy: IfNotPresent
 
 service:
