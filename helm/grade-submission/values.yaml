@@ -2,7 +2,7 @@ replicaCount: 1
 
 image:
   repository: 254185428277.dkr.ecr.us-east-1.amazonaws.com/vinoth-helm
-  tag: v8
+  tag: v9
   pullPolicy: IfNotPresent
 
 service:
